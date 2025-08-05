@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+openai
+pydantic
+httpx
+python-multipart
+Pillow
+supabase
+python-dotenv
